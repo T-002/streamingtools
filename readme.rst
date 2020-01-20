@@ -1,5 +1,5 @@
-T-002's streamingtools
-======================
+pixeldreck's streamingtools
+===========================
 Welcome to `streamingtools`.
 This library will guide you trough the process on how to develop tools for
 streaming services, such as twitch.
@@ -22,6 +22,5 @@ The container will contain a ``Makefile`` with the following relevant targets:
 * **run** - Starts a Docker container.
 * **dev** - Starts the Docker container with local file mapping for
             better development and testing.
-
 
 .. _Twitch: https://www.twitch.tv/pixeldreck
