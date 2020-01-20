@@ -1,0 +1,5 @@
+pytest
+thefuck
+sphinx
+sphinx_bootstrap_theme
+sphinxcontrib-napoleon
